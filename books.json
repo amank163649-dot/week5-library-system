@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "isbn": "9781593279288",
+    "year": 2019,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2026-08-12"
+  },
+  {
+    "title": "Automate the Boring Stuff with Python",
+    "author": "Al Sweigart",
+    "isbn": "9781593275990",
+    "year": 2015,
+    "available": false,
+    "borrowed_by": "MEM001",
+    "due_date": "2026-08-26",
+    "date_added": "2026-08-12"
+  },
+  {
+    "title": "Fluent Python",
+    "author": "Luciano Ramalho",
+    "isbn": "9781491946008",
+    "year": 2022,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2026-08-12"
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "isbn": "9780132350884",
+    "year": 2008,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2026-08-12"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "isbn": "9780135957059",
+    "year": 2019,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2026-08-12"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "John Doe",
+    "member_id": "MEM001",
+    "borrowed_books": [
+      "9781593275990"
+    ],
+    "max_books": 5
+  },
+  {
+    "name": "Jane Roe",
+    "member_id": "MEM002",
+    "borrowed_books": [],
+    "max_books": 5
+  }
+]
